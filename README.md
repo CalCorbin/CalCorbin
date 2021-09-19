@@ -1,4 +1,4 @@
-## Who am I?
+## Who am I? 🖖
 
 Hi there, my name is Cal Corbin. I'm a self taught software engineer, but in reality I had help from mentors and the awesome people/resources at Techlahoma. Javascript will always be my favorite language... maybe.
 
