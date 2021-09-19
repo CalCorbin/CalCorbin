@@ -1,8 +1,8 @@
-## Who am I? 🖖
+# 🖖 Who am I? 
 
 Hi there, my name is Cal Corbin. I'm a self taught software engineer, but in reality I had help from mentors and the awesome people/resources at Techlahoma. Javascript will always be my favorite language... maybe.
 
-## When I'm not coding
+# When I'm not coding
 
 - 👑 Reading a Brandon Sanderson book
 - 👨‍💻 Day dreaming about Snow Crash
@@ -12,7 +12,7 @@ Hi there, my name is Cal Corbin. I'm a self taught software engineer, but in rea
 
 ![pixel art](https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif?cid=790b76111ef7917abedc86b2de4284f977df1f7b7a3e41f0&rid=giphy.gif&ct=g)
 
-## My Stats and Connect
+# My Stats/Connect with me
 
 <img align="center" alt="Cal's GitHub Stats" src="https://github-readme-stats-lake-five.vercel.app/api?username=calcorbin&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
