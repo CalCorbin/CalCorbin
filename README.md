@@ -2,6 +2,8 @@
 
 Hi there, my name is Cal Corbin. I'm a self taught software engineer, but in reality I had help from mentors and the awesome people/resources at Techlahoma. Javascript will always be my favorite language... maybe.
 
+[Checkout My Portfolio](https://calcorbin.com/)
+
 # When I'm not coding
 
 - 👑 Reading a Brandon Sanderson book
